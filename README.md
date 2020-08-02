@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/bd/be/dd/bdbeddc6c80b01322be91468c35f9d1f.gif">
+<img align="right" width="480" height="400" src="https://i.pinimg.com/originals/bd/be/dd/bdbeddc6c80b01322be91468c35f9d1f.gif">
   
 # Hello World! 😁
 
