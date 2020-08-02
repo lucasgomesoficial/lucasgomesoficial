@@ -1,5 +1,5 @@
-<img align="right" width="400" height="400" src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I">
-
+<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  
 # Hello World! 😁
 
 ### My name is Lucas \o/
