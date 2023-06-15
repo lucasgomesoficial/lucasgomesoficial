@@ -20,7 +20,10 @@ function App() {
         <a href="https://twitter.com/lucasgomesdev" target="_blank">
           <img src={twitterLogo} className="logo react" alt="Twitter logo" />
         </a>
-        <a href="https://www.linkedin.com/in/lucasgomesoficial/" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/lucasgomesoficial/"
+          target="_blank"
+        >
           <img src={linkedinLogo} className="logo react" alt="Linkedin logo" />
         </a>
         <a href="https://github.com/lucasgomesoficial" target="_blank">
@@ -29,16 +32,21 @@ function App() {
       </div>
       <h1>Lucas Gomes</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          contador {`=>`} {count}
-        </button>
+        <div className="btnCard">
+          <button onClick={() => setCount((count) => count + 1)}>
+            contador {`=>`} {count}
+          </button>
+          <button onClick={() => setCount(0)}>
+            reseta contador
+          </button>
+        </div>
         <p>⚠️ Em construção ⚠️</p>
       </div>
       <p className="read-the-docs">
         "A vida é uma dança constante de emoções." - ChatGPT
       </p>
       <footer>
-        Icons baixado no {" "}
+        Icons baixado no{" "}
         <a target="_blank" href="https://icons8.com">
           Icons8
         </a>
